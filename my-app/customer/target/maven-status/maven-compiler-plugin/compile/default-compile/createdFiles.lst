@@ -1,0 +1,8 @@
+com/mycompany/app/customer/Customer$CustomerBuilder.class
+com/mycompany/app/customer/CustomerService.class
+com/mycompany/app/customer/CustomerConfig.class
+com/mycompany/app/customer/CustomerRepository.class
+com/mycompany/app/customer/CustomerController.class
+com/mycompany/app/customer/CustomerRegistrationRequest.class
+com/mycompany/app/customer/Customer.class
+com/mycompany/app/customer/CustomerApplication.class

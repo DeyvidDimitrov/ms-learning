@@ -1,0 +1,7 @@
+/Users/deyvidd/helti/ms-practice/my-app/notification/src/main/java/com/mycompany/app/notification/NotificationRepository.java
+/Users/deyvidd/helti/ms-practice/my-app/notification/src/main/java/com/mycompany/app/notification/NotificationApplication.java
+/Users/deyvidd/helti/ms-practice/my-app/notification/src/main/java/com/mycompany/app/notification/NotificationConfig.java
+/Users/deyvidd/helti/ms-practice/my-app/notification/src/main/java/com/mycompany/app/notification/rabbitmq/NotificationConsumer.java
+/Users/deyvidd/helti/ms-practice/my-app/notification/src/main/java/com/mycompany/app/notification/NotificationService.java
+/Users/deyvidd/helti/ms-practice/my-app/notification/src/main/java/com/mycompany/app/notification/NotificationController.java
+/Users/deyvidd/helti/ms-practice/my-app/notification/src/main/java/com/mycompany/app/notification/Notification.java

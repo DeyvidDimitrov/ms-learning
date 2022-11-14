@@ -1,0 +1,5 @@
+com/mycompany/app/clients/CustomerClient.class
+com/mycompany/app/clients/fraud/FraudClient.class
+com/mycompany/app/clients/notification/NotificationClient.class
+com/mycompany/app/clients/notification/NotificationRequest.class
+com/mycompany/app/clients/fraud/FraudCheckResponse.class
